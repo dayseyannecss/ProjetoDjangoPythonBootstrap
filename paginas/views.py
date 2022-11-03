@@ -6,4 +6,4 @@ class Index(TemplateView):
 
 class Modelo(TemplateView):
 
-    template_name = 'modelo.html'
+    template_name = 'cart.html'
