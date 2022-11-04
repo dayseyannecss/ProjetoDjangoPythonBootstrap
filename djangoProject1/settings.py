@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'cadastro.apps.CadastroConfig',
     'bootstrapform',
     'crispy_forms',
+    'users.apps.UsersConfig',
 ]
 
 MIDDLEWARE = [
